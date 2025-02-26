@@ -102,13 +102,3 @@ We recommend:
 DODAM KOREA
 ```
 
-## Future Improvements
-
-- 🚀 **Expand to include additional restaurant attributes**
-- 🎨 **Develop a GUI version for better user experience**
-- 🔍 **Improve inference rules for better recommendations**
-- 🌍 **Integrate with Google Maps for location-based recommendations**
-
-## License
-
-This project is licensed under the **MIT License**.
